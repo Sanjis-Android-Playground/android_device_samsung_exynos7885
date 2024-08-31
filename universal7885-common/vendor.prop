@@ -63,5 +63,5 @@ ro.vendor.vibrator_hal.tick_duration=65
 ro.vendor.vibrator_hal.texture_tick_duration=60
 
 # Fingerprint
-ro.vendor.fingerprint.type?=rear
-ro.vendor.fingerprint.supports_gestures?=true
+ro.vendor.fingerprint.type=udfps
+ro.vendor.fingerprint.sensor_location=1330|360|21
